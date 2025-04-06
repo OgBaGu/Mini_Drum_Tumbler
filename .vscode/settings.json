@@ -1,0 +1,11 @@
+{
+    "C_Cpp.intelliSenseEngine": "default",
+    "idf.espIdfPathWin": "c:\\Users\\baran\\esp\\v5.4\\esp-idf",
+    "idf.pythonInstallPath": "c:\\Users\\baran\\.espressif\\tools\\idf-python\\3.11.2\\python.exe",
+    "idf.openOcdConfigs": [
+        "board/esp32-wrover-kit-3.3v.cfg"
+    ],
+    "idf.portWin": "COM6",
+    "idf.toolsPathWin": "c:\\Users\\baran\\.espressif",
+    "idf.flashType": "UART"
+}
